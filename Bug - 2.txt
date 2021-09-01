@@ -1,0 +1,9 @@
+Whenever i try to perform any action it shows me error on Issue Tracker  console action.
+
+Created issue.
+1. Go to the edit button in Starred by me.
+2. After clicking edit you will face this error.
+
+It even printed 2 comments at one time and showed an error while deleting it.
+
+Proof - Related screenshots are provided below
